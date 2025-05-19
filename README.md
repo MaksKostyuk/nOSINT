@@ -1,2 +1,3 @@
 # nOSINT
-OSINT tool
+
+This tool find pepole from your usermane or name
